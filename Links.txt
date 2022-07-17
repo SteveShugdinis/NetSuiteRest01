@@ -1,0 +1,15 @@
+NetSuite for Soap and REST example project - FYI does not work  because of SHA1 should be SHA-256
+https://www.netsuite.com/portal/developers/resources/suitetalk-documentation.shtml
+
+NetSuite Rest Overview
+https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/chapter_1540391670.html
+
+NETSuite REST documentation
+https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_157373386674.html
+
+NetSuite GitHub Wrapper
+https://github.com/ehmad11/netsuite-rest
+
+NetSuite REST Record Definitions
+https://system.netsuite.com/help/helpcenter/en_US/APIs/REST_API_Browser/record/v1/2022.1/index.html
+
